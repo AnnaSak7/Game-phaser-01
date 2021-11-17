@@ -1,0 +1,17 @@
+.DS_*
+
+logs
+*.log
+
+# Dependency directories
+node_modules/
+dist/
+
+
+# Optional npm cache directory
+.npm
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
+.cache/
